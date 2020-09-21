@@ -1,3 +1,5 @@
+package startjava.Lesson_2.calculator;
+
 import java.util.Scanner; // импорт сканера
 
 public class CalculatorTest{

@@ -1,3 +1,5 @@
+package startjava.Lesson_2.game;
+
 public class GuessNumber {
 
     public boolean isGuessedNumber (int compNumber, int persNum) {

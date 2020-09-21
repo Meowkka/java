@@ -1,3 +1,5 @@
+package startjava.Lesson_2.robot;
+
 public class JaegerTest {
     public static void main(String[] args) {
         Jaeger jagerOne = new Jaeger("Java", "Java-5", "Russia", 40, 2);
